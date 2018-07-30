@@ -1,0 +1,16 @@
+PODS:
+  - HelperPod (1.0.0)
+
+DEPENDENCIES:
+  - HelperPod (from `../HelperPod/`)
+
+EXTERNAL SOURCES:
+  HelperPod:
+    :path: "../HelperPod/"
+
+SPEC CHECKSUMS:
+  HelperPod: 6546f7a33954207318b5eaf1616ff63994916fe4
+
+PODFILE CHECKSUM: dd22d1427fde42b74e00b63f29864b9966a9fcf2
+
+COCOAPODS: 1.5.0

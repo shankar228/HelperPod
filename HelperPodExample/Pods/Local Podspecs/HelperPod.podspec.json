@@ -1,0 +1,19 @@
+{
+  "name": "HelperPod",
+  "version": "1.0.0",
+  "summary": "This pod is in development phase",
+  "description": "tbhis is a dummy Pod. Please wait while we develope the whole pod",
+  "homepage": "https://github.com/shankar228/HelperPod",
+  "license": "MIT",
+  "authors": {
+    "Shankar Kumar": "shankar.kumar@decimal.co.in"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/shankar228/HelperPod.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "HelperPod/**/*"
+}

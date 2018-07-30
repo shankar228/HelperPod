@@ -1,0 +1,6 @@
+framework module HelperPod {
+  umbrella header "HelperPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
